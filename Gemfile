@@ -36,7 +36,7 @@ gem 'devise'
 gem 'workos', '2.5.0'
 # Use JSON to generate user information in JSON format
 gem "json", ">= 2.3.0"
-gem 'pry'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
